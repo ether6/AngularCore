@@ -1,0 +1,3 @@
+[submodule "core/projects/AngularLibrary"]
+	path = core/projects/AngularLibrary
+	url = https://github.com/ether6/AngularLibrary.git
